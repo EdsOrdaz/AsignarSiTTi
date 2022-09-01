@@ -15,7 +15,7 @@ namespace AsignarSiTTi
     {
         #region BD
         private String versiontext = "1.161";
-        private String version = "dbbaf337372a39119102005b34f73cd7";
+        private String version = "68855bf330a3df0321798aaef02e4eada27df5c2";
         private String conexionsqllast = "server=148.223.153.37,5314; database=InfEq;User ID=eordazs;Password=Corpame*2013; integrated security = false ; MultipleActiveResultSets=True";
         public static String servivorSirac = "148.223.153.43\\MSSQLSERVER1";
         public static String basededatosSirac = "bd_SiRAc";
